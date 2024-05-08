@@ -1,0 +1,13 @@
+#Linkin{
+  border: 10px inset black;
+  padding:100px ;
+  margin: 20x;
+}
+#Billie{
+  border: 10px inset #13b913;
+  padding:100px;
+  margin: 20x;
+}
+body{
+  background-color: gray;
+}
